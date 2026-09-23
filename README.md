@@ -1,1 +1,1 @@
-# lab-5-learning
+Day 5 Hands-On Lab explores AI image-generation tools, including ChatGPT, Gemini, Leonardo AI, Recraft AI, and Canva AI. It compares prompt accuracy, realism, lighting direction, facial features, and visual accents. The project also examines camera-left and camera-right lighting, helping understand AI-generated visuals for professional airline marketing.
